@@ -22,6 +22,6 @@ Core HTML5 concepts practiced in this build:
 - Accessibility: `alt` text for screen readers + SEO
 
 ## Screenshot
-![Travel Agency Page Day 8](Screenshot_20260616_171541_Samsung Internet.jpg)
+![Travel Agency Page Day 8](Screenshot_20260617_155000_Samsung%20Internet.jpg)
 
 
