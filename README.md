@@ -20,3 +20,8 @@ Core HTML5 concepts practiced in this build:
 - Images: `<img>` with `src` + descriptive `alt` attributes
 - Figure grouping: `<figure>` + `<figcaption>` for image + caption
 - Accessibility: `alt` text for screen readers + SEO
+
+## Screenshot
+![Travel Agency Page Day 8](Screenshot_20260616_171541_Samsung Internet.jpg)
+
+
